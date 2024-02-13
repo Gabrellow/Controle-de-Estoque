@@ -10,13 +10,11 @@ Este é um projeto de controle de estoque simples desenvolvido em HTML, CSS e Ja
 
 ## Como Usar
 
-1. Clone este repositório:
-
    ```bash
-   git clone https://github.com/Gabrellow/Controle-de-Estoque.git
+   https://gabrellow.github.io/Controle-de-Estoque/main
 
 
-1º Abra o arquivo index.html em seu navegador da web.
+1º Abra o arquivo main.html em seu navegador da web.
 
 2º Preencha o formulário com o nome do item e a quantidade, e clique em "Adicionar Item".
 
