@@ -26,5 +26,7 @@ Este é um projeto de controle de estoque simples desenvolvido em HTML, CSS e Ja
 
 Adicionar funcionalidade de remover itens do estoque.
 Implementar a persistência de dados usando armazenamento local ou um banco de dados.
-Autor
+
+## Autor
+
 Este projeto foi desenvolvido por Gabrellow.
