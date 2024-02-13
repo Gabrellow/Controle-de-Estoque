@@ -13,7 +13,8 @@ Este é um projeto de controle de estoque simples desenvolvido em HTML, CSS e Ja
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Gabrellow/Controle-de-Estoque.git
+
 
 1º Abra o arquivo index.html em seu navegador da web.
 
@@ -21,7 +22,8 @@ Este é um projeto de controle de estoque simples desenvolvido em HTML, CSS e Ja
 
 3º A lista de itens no estoque será atualizada automaticamente.
 
-##Melhorias Futuras
+## Melhorias Futuras
+
 Adicionar funcionalidade de remover itens do estoque.
 Implementar a persistência de dados usando armazenamento local ou um banco de dados.
 Autor
